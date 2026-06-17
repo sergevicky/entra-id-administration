@@ -1,2 +1,30 @@
-# entra-id-administration
-Entra ID labs and PowerShell scripts — identity management, RBAC, Conditional Access — enterprise, healthcare, government and MSP environments
+# Entra ID Administration
+
+**Serge Tat-Feuze** | IT Administrator | Ottawa, ON
+AZ-104 Certified | CompTIA Security+ |
+Microsoft 365 & Azure | Identity & Access Management
+
+## About
+Hands-on Microsoft Entra ID labs and PowerShell scripts
+covering identity and access management for enterprise,
+healthcare, government, and MSP environments.
+
+## Topics Covered
+- User provisioning and lifecycle management
+- Role-Based Access Control (RBAC)
+- Conditional Access policies
+- MFA configuration and troubleshooting
+- Dynamic groups and identity governance
+- PowerShell automation with Microsoft Graph API
+
+## Labs
+| Lab | Description |
+|---|---|
+| *Labs added progressively as completed* | |
+
+## Technologies
+PowerShell · Microsoft Graph API · Entra ID · Azure Portal
+
+## Contact
+linkedin.com/in/serge-tat-feuze-841981129/
+s.tatfeuze@gmail.com
