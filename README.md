@@ -20,8 +20,7 @@ healthcare, government, and MSP environments.
 ## Labs
 | Lab | Description |
 |---|---|
-| *Labs added progressively as completed* | |
-
+| [lab-01-users-groups-rbac](./lab-01-users-groups-rbac) | User provisioning, security groups, RBAC — healthcare scenario |
 ## Technologies
 PowerShell · Microsoft Graph API · Entra ID · Azure Portal
 
